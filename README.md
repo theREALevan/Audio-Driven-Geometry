@@ -46,7 +46,7 @@ An interactive application that creates dynamic geometric visualizations driven 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone git@github.com:theREALevan/Audio-Driven-Geometry.git
 cd Audio_driven_geometry
 ```
 
